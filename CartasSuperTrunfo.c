@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-typedef struct{
 char Estado;
 char Codigo[4];
 char NomeCidade[50];
@@ -9,10 +8,8 @@ float Area;
 float PIB;
 int PontosTuristicos;
 
-} CartasSuperTrunfo;
-
 int main() {
-        
+    printf("")
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
     // Cadastro das Cartas:
